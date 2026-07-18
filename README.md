@@ -2,21 +2,21 @@
 
 **Website:** <https://chainexam.in>
 
-Secure Exam Delivery, OMR & On-Screen Marking Platform.
+Secure Exam Delivery, AI-powered OMR & On-Screen Marking Platform.
 
 # Hi, I am Amit Kumar Pathak
 
-Senior Software Engineer with 12+ years of experience building high-performance software and AI-powered document processing solutions. My expertise includes PDF technologies, OCR, Document AI, C++, C#, Python & modern web development.
+Senior Software Engineer with 12+ years of experience building high-performance software and AI-powered document processing solutions. My expertise includes PDF technologies, OCR, OMR, Document AI, C++, C#/.NET, Python & modern web development.
 
 ## 🚀 Current Focus
 
 * Building **ChainExam**, a secure examination ecosystem.
-* Developing AI-powered PDF parsing, OCR, OMR & document intelligence solutions.
+* Developing AI-powered PDF parsing, OCR, OMR & document processing solutions.
 * Exploring modern systems programming with Rust.
 
 ## 💼 Areas of Expertise
 
-* Document Processing (PDF, Word etc)
+* Document Processing (PDF, Word, 3D File Formats (CAD) etc)
 * Document Understanding (Layout Detection)
 * OCR & Document AI
 * Desktop App Development
@@ -42,7 +42,7 @@ A secure examination platform focused on modernizing examination workflows.
 
 **Backend & Databases:** NodeJS, ASP.NET Core, .NET, PostgreSQL, Redis
 
-**Document AI:** PDFium, MuPDF, OpenCV, OCR (Tesseract, PaddleOCR)
+**Document AI:** PDFium, Apache PDFBox, MuPDF, OpenCV, OCR (Tesseract, PaddleOCR)
 
 **Other:** Docker, Git, Win/Linux, REST APIs, Blockchain
 
