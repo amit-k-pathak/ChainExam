@@ -2,7 +2,7 @@
 
 **Website:** <https://chainexam.in>
 
-Secure Exam Delivery, AI-powered OMR & On-Screen Marking Platform.
+Secure Exam Delivery, AI-powered OMR with OCR/HTR & an Advanced On-Screen Marking Platform with real-time exam center monitoring.
 
 # Hi, I am Amit Kumar Pathak
 
