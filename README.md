@@ -6,12 +6,12 @@ Secure Exam Delivery, AI-powered OMR with OCR/HTR & an Advanced On-Screen Markin
 
 # Hi, I am Amit Kumar Pathak
 
-Senior Software Engineer with 12+ years of experience building high-performance software and AI-powered document processing solutions. My expertise includes PDF technologies, OCR, OMR, Document AI, C++, C#/.NET, Python & modern web development.
+Senior Software Engineer with 12+ years of experience building high-performance software and AI-powered document processing solutions. My expertise includes PDF technologies, OCR/HTR, OMR, Document AI, C++, C#/.NET, Python & modern web development.
 
 ## 🚀 Current Focus
 
 * Building **ChainExam**, a secure examination ecosystem.
-* Developing AI-powered PDF parsing, OCR, OMR & document processing solutions.
+* Developing AI-powered PDF parsing, OCR/HTR, OMR & document processing solutions.
 * Exploring modern systems programming with Rust.
 
 ## 💼 Areas of Expertise
